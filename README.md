@@ -1,5 +1,4 @@
-
-<h1>Hi , I'm [Garlic!](https://greatgarlic.github.io) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></h1>
+### <h1>Hi , I'm [Garlic!](https://greatgarlic.github.io) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></h1>
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=GreatGarlic&show_icons=true&theme=material-palenight&include_all_commits=true&hide_border=true)
 
