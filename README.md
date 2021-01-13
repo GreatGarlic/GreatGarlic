@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GreatGarlic&layout=compact&theme=material-palenight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GreatGarlic&layout=compact&theme=buefy)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GreatGarlic&show_icons=true&theme=material-palenight)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GreatGarlic&show_icons=true&theme=buefy)
 
 <!--
 **GreatGarlic/GreatGarlic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
