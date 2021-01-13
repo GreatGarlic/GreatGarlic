@@ -1,4 +1,4 @@
-# Hi , I'm [Garlic!](https://greatgarlic.github.io) 😄
+# Hi , I'm [Garlic!](https://greatgarlic.github.io) 🤗
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=GreatGarlic&show_icons=true&theme=material-palenight&include_all_commits=true&hide_border=true)
 
